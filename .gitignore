@@ -1,0 +1,15 @@
+# Laufzeitdaten (entstehen beim Benutzen)
+inventar.json
+inventar.csv
+Bestand.md
+Fotos/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / System
+.DS_Store
+Thumbs.db

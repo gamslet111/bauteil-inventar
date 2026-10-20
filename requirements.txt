@@ -1,0 +1,6 @@
+opencv-python>=4.10
+Pillow>=10.0
+pillow-heif>=1.0
+
+# Optional, nur für den Anbieter Anthropic:
+# anthropic>=1.0
