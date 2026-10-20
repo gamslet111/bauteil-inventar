@@ -1,4 +1,4 @@
-# Laufzeitdaten (entstehen beim Benutzen)
+# Nicht ins Repo: Datenbestand, generierte Dateien, Fotos
 inventar.json
 inventar.csv
 Bestand.md
@@ -10,6 +10,6 @@ __pycache__/
 .venv/
 venv/
 
-# Editor / System
-.DS_Store
-Thumbs.db
+# Keys und lokale Konfiguration
+.env
+.env.*
